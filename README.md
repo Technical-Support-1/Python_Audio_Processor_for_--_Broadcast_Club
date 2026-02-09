@@ -8,9 +8,10 @@ A Python programme written specially for processing  song audios as the weekly r
 
 ## 使用方法 / Instruction
 
-1. 将其放入软件根目录中（即ClouDMusic文件夹下，与cloudmusic.exe平级）
+1. 将其放入软件根目录中（即CloudMusic文件夹下，与cloudmusic.exe平级）
 2. 安装相关依赖（请见requirements.txt）
-3. 按照提示开始使用即可。
+3. 按照提示输入对应的参数，并将需要补充的文件转移并重命名（如果有）
+4. 等待程序自动运行给出结果。
 
 ## 注意事项 / Notice
 
@@ -22,6 +23,7 @@ A Python programme written specially for processing  song audios as the weekly r
 6. 该项目目前只支持对于歌单的处理。
 7. 为了您的硬盘空间，请定期清理VipSongsDownload以及生成的数据文件夹。
 8. 如有更多问题，请联系wikidot-cn@outlook.com
+9. 本代码仅供学习交流使用。
 
 Hope u enjoy
 
