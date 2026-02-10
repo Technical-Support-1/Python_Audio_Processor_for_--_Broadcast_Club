@@ -15,7 +15,7 @@ A Python programme written specially for processing  song audios as the weekly r
 
 ## 注意事项 / Notice
 
-1. 请保证根目录整洁，不要有多余的饮品文件干扰程序运行。
+1. 请保证根目录整洁，不要有多余的音频文件干扰程序运行。
 2. 保证网易云音乐默认下载位置不变。
 3. 需要从外部导入歌曲时，需要将其重命名为"作者 - 歌曲名.mp3"的格式，放入CloudMusic文件夹中。
 4. 出现错误时，应当将生成的文件全部删除后再重新运行。
